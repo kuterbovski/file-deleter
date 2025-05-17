@@ -1,2 +1,11 @@
 # file-deleter
-a file deleter with 2 passwords first it will ask 1 password then 2 and then it will give you a 10 second countdown 
+
+# How it works?
+
+so basicly when you do this (./emergency.sh) it will say "enter first password:" if correct it will say "enter second password:" if correct it will start a 10 second countdown so you can stop the procces
+
+# PASSWORDS
+# First password is: 0809
+# Second password is: 1
+
+# how to download it correctly?
